@@ -1,4 +1,4 @@
-## Hi there 👋
+ ## Hi there 👋
 
 <!--
 **prathamamritkar/prathamamritkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,12 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /></a>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+
+https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<GITHUB_USENAME>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
+
+</a>
 </div>
 </details>
