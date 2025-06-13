@@ -26,19 +26,19 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - 2nd Place, Settlement Design Competition (IIT-M, 2025)
   - Finalist, Nanotech Quiz (Bengaluru India NANO 2024)
   - Finalist, Cosmothon (IIT-KGP, 2024)
-<details>
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=prathamamritkar">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
-</div>
-</details>
+  - <details>
+     <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
+    <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+      <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=prathamamritkar">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+      </a>
+    </div>
+    </details>
 
 
 - 📫 How to reach me:
