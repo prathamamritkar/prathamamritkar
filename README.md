@@ -17,9 +17,7 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Interdisciplinary hackathons or research
 
 - 💬 Ask me about:
-  - Problem-solving, competitive programming, or tech innovation
-  - Building full-stack web apps
-  - Polyglot learning & productivity
+  - Nothing
 
 - 🏆 Achievements:
   - 1st Place, AISSMS COE Ideathon (2025)
