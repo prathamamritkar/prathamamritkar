@@ -26,7 +26,6 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - 2nd Place, Settlement Design Competition (IIT-M, 2025)
   - Finalist, Nanotech Quiz (Bengaluru India NANO 2024)
   - Finalist, Cosmothon (IIT-KGP, 2024)
-
 <details>
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -40,6 +39,7 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   </a>
 </div>
 </details>
+
 
 - 📫 How to reach me:
   [GitHub](https://github.com/prathamamritkar) | [LinkedIn](https://www.linkedin.com/in/prathamamritkar)
