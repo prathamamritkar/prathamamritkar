@@ -8,12 +8,11 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Urban Nexus Business Mapper (UNBM) — mapping business ecosystems
 
 - 🌱 I’m currently learning:
-  - Advanced blockchain applications
-  - Machine learning and data science
-  - WebXR and immersive web technologies
+  - Computer Engineering
+  - Data Science and Applications
 
 - 👯 I’m looking to collaborate on:
-  - Open-source projects in blockchain, AI/ML, or web tech
+  - Open-source projects in AI/ML, web tech, blockchain, or cybersecurity
   - Interdisciplinary hackathons or research
 
 - 💬 Ask me about:
