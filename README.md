@@ -19,10 +19,12 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Nothing
 
 - 🏆 Achievements:
-  - 1st Place, AISSMS COE Ideathon (2025)
-  - 2nd Place, Settlement Design Competition (IIT-M, 2025)
-  - Finalist, Nanotech Quiz (Bengaluru India NANO 2024)
-  - Finalist, Cosmothon (IIT-KGP, 2024)
+  - 1st Place, AISSMS COE Ideathon (IIC, 2025)
+  - 2nd Place, Settlement Design Competition (Margazhi, IIT-M, 2025)
+  - #3 Finalist, i2i (COEP Bhau Institute, 2025)
+  - #4 Finalist, Nanotech Quiz (Bengaluru India NANO 2024)
+  - #4 Finalist, Competitive Programming (GDGoC AISSMS COE, 2025)
+  - Finalist, Cosmomath (NSSC, IIT-KGP, 2024)
   - <details>
      <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
     <div style='display:flex; align-items:center; gap: 10px;' align='center'>
