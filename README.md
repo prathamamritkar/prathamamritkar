@@ -41,8 +41,7 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
 
 
 - 📫 How to reach me:
-  [GitHub](https://github.com/prathamamritkar) | [LinkedIn](https://www.linkedin.com/in/prathamamritkar)
-  Email: [pratham.amritkar@gmail.com](prathamamritkar@gmail.com)
+  [GitHub](https://github.com/prathamamritkar) | [LinkedIn](https://www.linkedin.com/in/prathamamritkar) | [Email](prathamamritkar@gmail.com)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love learning new languages — both speaking and programming!
