@@ -19,6 +19,9 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Nothing
 
 - 🏆 Achievements:
+  - 1st Place in space Settlement Design Competition 2.0 (Saavan, IIT Madras) (2025)
+  - 2nd Place in space Settlement Design Competition (Margazhi, IIT Madras) (2025)
+  - 3rd Place in Biotech Quiz national finals (Bengaluru India Summit, Govt. of Karnataka) (2025)
   - 1st Place, AISSMS COE Ideathon (IIC, 2025)
   - 2nd Place, Settlement Design Competition (Margazhi, IIT-M, 2025)
   - #3 Finalist, i2i (COEP Bhau Institute, 2025)
