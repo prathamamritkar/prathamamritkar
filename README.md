@@ -2,11 +2,6 @@
 
 I'm Pratham Amritkar — a student, polymath, and polyglot passionate about building innovative technology solutions across computer engineering, data science, and blockchain.
 
-- 🔭 I’m currently working on:
-  - XR×AI Innovation Lab (XRAI) — exploring the intersection of XR & AI
-  - Sustainable Automation (SA) — building smarter, greener systems
-  - Urban Nexus Business Mapper (UNBM) — mapping business ecosystems
-
 - 🌱 I’m currently learning:
   - Computer Engineering
   - Data Science and Applications
