@@ -7,7 +7,6 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Data Science and Applications
 
 - 👯 I’m looking to collaborate on:
-  - Open-source projects in AI/ML, web tech, blockchain, or cybersecurity
   - Interdisciplinary hackathons or research
 
 - 💬 Ask me about:
