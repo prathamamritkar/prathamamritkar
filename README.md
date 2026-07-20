@@ -13,11 +13,13 @@ I'm Pratham Amritkar — a student, polymath, and polyglot passionate about buil
   - Nothing
 
 - 🏆 Achievements:
+  - 1st Place: National Hackathon on Lunar Habitation, SpAR Conclave 2026, IIT Roorkee & ISRO
+  - 1st Place in space Settlement Design Competition 3.0 (Margazhi, IIT Madras) (2026)
   - 1st Place in space Settlement Design Competition 2.0 (Saavan, IIT Madras) (2025)
   - 2nd Place in space Settlement Design Competition (Margazhi, IIT Madras) (2025)
+  - 2nd Place: Tata Crucible Campus Quiz 2026 - Maharashtra Cluster Finals
   - 3rd Place in Biotech Quiz national finals (Bengaluru India Summit, Govt. of Karnataka) (2025)
   - 1st Place, AISSMS COE Ideathon (IIC, 2025)
-  - 2nd Place, Settlement Design Competition (Margazhi, IIT-M, 2025)
   - #3 Finalist, i2i (COEP Bhau Institute, 2025)
   - #4 Finalist, Nanotech Quiz (Bengaluru India NANO 2024)
   - #4 Finalist, Competitive Programming (GDGoC AISSMS COE, 2025)
