@@ -78,6 +78,9 @@
 * **Positions:** President, Entrepreneurship & Skill Development (E&SD) Cell ✦ Research & Analysis Head, UNIVERSO Space & Astronomy Club ✦ College Lead, NEC 2025 *(E-Cell IIT Bombay)* ✦ Student Coordinator, Institution's Innovation Council (IIC) ✦ Student Secretary, IUCEE ✦ IEEE Student Member ✦ Class Representative.
 * **Ambassadorships & Volunteering:** Techfest Campus Ambassador *(IIT Bombay)* ✦ NSSC Student Ambassador *(IIT Kharagpur)* ✦ Perplexity Campus Partner ✦ GeeksforGeeks Campus Mantri ✦ RYLA TechTalk Week 2025 Volunteer *(Rotary Club)* ✦ Micro-Volunteer, CRY.
 
-<div align="center">
-<sub>Based in Pune, Maharashtra, India.</sub>
-</div>
+---
+
+<p align="center">
+  <sub>Based in Pune, Maharashtra, India &nbsp;•&nbsp; </sub>
+  <img src="https://komarev.com/ghpvc/?username=prathamamritkar&color=586069&labelColor=24292e&style=flat-square&label=VIEWS" alt="Profile Views" align="center" />
+</p>
