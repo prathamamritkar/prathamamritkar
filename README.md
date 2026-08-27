@@ -5,8 +5,6 @@
 **BS Data Science & Applications** @ IIT Madras (CGPA: 8.26)  
 **BE Computer Engineering (Honours in AI & ML)** @ Savitribai Phule Pune University (CGPA: 8.89)
 
-> *"D0. Or do no1. There is no try."*
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
 
