@@ -81,6 +81,5 @@
 ---
 
 <p align="center">
-  <sub>Based in Pune, Maharashtra, India &nbsp;•&nbsp; </sub>
   <img src="https://komarev.com/ghpvc/?username=prathamamritkar&color=586069&labelColor=24292e&style=flat-square&label=VIEWS" alt="Profile Views" align="center" />
 </p>
