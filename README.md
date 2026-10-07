@@ -40,7 +40,7 @@
 | **[The Atelier](https://the-atelier-demo.onrender.com/)** | Dependency-free browser 3D operations studio powered by Three.js and Python standard library HTTP/SQLite, executing guarded idempotent inventory, production, and shipping workflows. |
 | **[XR × AI Innovation Lab](https://xrai.vercel.app/)** | WebXR collaborative workspace integrating WebXR Hit-Test and Anchor APIs for physical surface tracking, real-time media streaming, Three.js 3D/AR/VR rendering, and Generative AI prototyping assistance. |
 | **[Sustainable Campus Automation](https://neural-eco-campus.vercel.app/)** | Real-time CCTV analysis platform using a statistical "Fidelity Index" to audit campus energy use, integrated with ERC-20 smart contracts deployed on Ethereum Sepolia for token-based utility rewards. |
-
+| **[Lunar Base 3D](https://prathamamritkar.github.io/lunar-base-3D/)** | Browser-rendered 3D digital twin of a lunar habitat architecture developed for the National Hackathon on Lunar Habitation (SpAR Conclave, IIT Roorkee & ISRO), featuring interactive habitat exploration and environmental telemetry visualization. |
 
 ---
 
