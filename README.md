@@ -2,8 +2,8 @@
 
 # Pratham Amritkar
 
-**BS Data Science & Applications** @ IIT Madras (CGPA: 8.26)  
-**BE Computer Engineering (Honours in AI & ML)** @ Savitribai Phule Pune University (CGPA: 8.89)
+**BS Data Science & Applications** @ IIT Madras
+**BE Computer Engineering (Honours in AI & ML)** @ Savitribai Phule Pune University
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
